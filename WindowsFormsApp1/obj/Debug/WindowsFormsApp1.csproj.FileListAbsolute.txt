@@ -1,0 +1,10 @@
+F:\computer\Project\C#\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\computer\Project\C#\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\computer\Project\C#\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\computer\Project\C#\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\computer\Project\C#\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMain.resources
+F:\computer\Project\C#\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\computer\Project\C#\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\computer\Project\C#\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\computer\Project\C#\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\computer\Project\C#\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
