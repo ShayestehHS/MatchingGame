@@ -51,11 +51,10 @@ namespace MatchingGame
 
         private void label_Click(object sender, EventArgs e)
         {
-            //Avoid user to select third label
-            if (timer.Interval == 750)
-                return;
-
             Label Selected = (Label)sender;
+            //Avoid user to select third label //Avoid user to select matched label
+            if (timer.Interval == 750 || Selected.BackColor == Color.Green )
+                return;
 
             if (firstSelected != null)
             {

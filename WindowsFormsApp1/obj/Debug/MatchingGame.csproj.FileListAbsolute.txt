@@ -18,3 +18,13 @@ F:\computer\Project\C#\MatchingGame1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug
 F:\computer\Project\C#\MatchingGame1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
 F:\computer\Project\C#\MatchingGame1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 F:\computer\Project\C#\MatchingGame1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\computer\Project\C#\GitHub\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\computer\Project\C#\GitHub\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\computer\Project\C#\GitHub\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\computer\Project\C#\GitHub\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MatchingGame.csprojAssemblyReference.cache
+F:\computer\Project\C#\GitHub\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MatchingGame.FrmMain.resources
+F:\computer\Project\C#\GitHub\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\computer\Project\C#\GitHub\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+F:\computer\Project\C#\GitHub\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+F:\computer\Project\C#\GitHub\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\computer\Project\C#\GitHub\MatchingGame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
